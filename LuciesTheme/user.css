@@ -1,0 +1,196 @@
+:root{
+    --spice-main-elevated: #242424;
+    --spice-notification: #4687d6;
+    --spice-player: #2e2837;
+    --spice-shadow: #2e2837;
+    --spice-highlight-elevated: #2a2a2a;
+    --spice-misc: #33ecc8;
+    --spice-main: #2e2837;
+    --spice-selected-row: #33ECC8;
+    --spice-notification-er:  #33ECC8;
+    --spice-main-elevated: #242424;
+    --spice-notification: #4687d6;
+    --spice-player: #2e2837;
+    --spice-shadow: #2e2837;
+    --spice-highlight-elevated: #2a2a2a;
+    --spice-misc: #33ecc8;or: #e22134;
+    --spice-button-active: #53fCd8;
+    --spice-tab-active: #44444480;
+    --spice-button-disabled: #535353;
+    --spice-butto--spice-sidebarn: #33ECC8;
+    --spice-subtext: #229f87;
+    --spice-highlight: #bc3ca7;
+    --spice-sidebar: #282330;
+    --spice-rgb-text: 255,255,255;
+    --spice-text:#33ecc8 ;
+    --spice-card:#892b79;
+    --power-bar-background-color:#302e32;
+    --gap-size:8px;
+    --no-size:0px;
+    --spice-button: #33ECC8;
+}
+ /* Now Playing bar */
+.main-nowPlayingView-panelOpenDiv {
+    width:90%;
+    bottom: 0px;
+    position: absolute;
+}
+.main-nowPlayingView-section{
+    display: none;
+}
+
+.main-buddyFeed-closeContainer{
+    display: none;
+}
+
+.main-home-homeHeader{
+    display: none;
+}
+
+.hidden-visually{
+    display: none;
+}
+.main-navBar-mainNav {
+    gap: var(--gap-size);
+    height: 100%;
+}
+
+.main-coverSlotCollapsed-expandButton{
+    display: none;
+}
+
+.TypeElement-balladBold-textBase-type{
+    display: none;
+}
+
+
+.f6_Fu_ei4TIJWR0wzvTk{
+    display: none;
+}
+
+
+
+/* Soundbar */
+
+.main-nowPlayingBar-lyricsButton{
+    display: none;
+}
+.playback-bar{
+    position: absolute;
+    left: var(--no-size);
+    width: 100%;
+    bottom:  64px;
+}
+
+.playback-bar__progress-time-elapsed{
+    position: absolute;
+    height: 60px;
+    right: 94%;
+}
+
+.main-playbackBarRemainingTime-container{
+    position: absolute;
+    height: 60px;
+    left: 97%;
+}
+
+.main-likedSongsButton-likedSongsIcon {
+    color: var(--spice-sidebar) !important;
+    background: var(--spice-text) !important;
+}
+
+
+.main-connectBar-connectBar {
+    color: var(--spice-main-elevated) !important;
+    background-color : var(--background-base) !important;
+}
+
+/* Main Window*/
+/* transparent window controls background */
+
+body::after {
+    content: "";
+    position: absolute;
+    right: var( --no-size);
+    z-index: 999;
+    backdrop-filter: brightness(2.12);
+    width: 135px;
+    height: 31px;
+}
+
+.Root__top-container {
+    padding: 0px;
+}
+
+/* Top Bar */
+.main-trackList-trackListHeaderStuck.main-trackList-trackListHeader{
+    background: #216556CC ;
+}
+
+.main-topBar-background{
+    background-color: #892b79CC !important;
+}
+
+.main-actionBar-ActionBarRow .main-playButton-PlayButton{
+    left:50%;
+}
+
+
+.x-downloadButton-button{
+    display: none;
+}
+
+.main-entityHeader-topbarTitle{
+    padding-top:5px;
+}
+
+.main-yourLibraryX-filterArea{
+    padding-top: var(--gap-size);
+}
+
+/* Nav bar Left*/
+
+
+.x-entityImage-imageContainer{
+    border-radius: 2px;
+}
+.Root__nav-bar{
+    min-width: 79px;
+    padding-left:var(--gap-size) ;
+}
+
+.main-rootlist-wrapper{
+    padding-top:var(--gap-size) ;
+}
+
+.x-entityImage-imageContainer {
+    box-shadow: none;
+}
+
+.x-entityImage-imagePlaceholder{
+    background-color: #2e2837 !important;
+    border-radius:   var( --no-size);
+}
+
+.main-yourLibraryX-header{
+    padding-top: 0px;
+}
+
+.main-yourLibraryX-collapseButtonWrapper{
+    display: none;
+}
+.main-yourLibraryX-headerContent{
+    padding-top: 16px;
+}
+
+.main-yourLibraryX-isScrolled{
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.main-contextMenu-tippy{
+    display: none;
+}
+
+#spicetify-sticky-list > li:nth-child(4){
+    display: none;
+}
