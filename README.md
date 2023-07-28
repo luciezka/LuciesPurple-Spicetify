@@ -9,7 +9,10 @@ spicetify apply
 ```
 
 
-![image](https://github.com/luciezka/LuciesPurple-Spicetify/assets/83407389/47b70943-e9f1-4253-af47-6d459dccc371)
+![image](https://github.com/luciezka/LuciesPurple-Spicetify/assets/83407389/ae2effcd-8c7e-4262-9317-a64380db12bc)
+
+![image](https://github.com/luciezka/LuciesPurple-Spicetify/assets/83407389/6b7ff65c-bfae-491b-8b9f-0d1435fc58a3)
+
 
 - The Image includes the following extentions:
 - Bautiful Lyrics
