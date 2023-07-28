@@ -194,3 +194,21 @@ body::after {
 #spicetify-sticky-list > li:nth-child(4){
     display: none;
 }
+
+.main-yourLibraryX-entryPoints{
+  border-radius: 2px;
+}
+.Root__main-view{
+    border-radius: 2px;
+}  
+
+.main-buddyFeed-container{
+ border-radius: 2px !important;
+}
+
+.lyrics-background-container{
+   border-radius: 2px !important;
+}
+.main-topBar-background{
+  border-radius: 2px !important;
+}
